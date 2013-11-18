@@ -24,16 +24,16 @@
   </info>
   <locale>
     <terms>
-      <term name="anonymous">Anon.</term>
-      <term name="no date">[no date]</term>
+      <term name="anonymous">Anonim</term>
+      <term name="no date">[bez daty]</term>
       <term name="in">w</term>
       <term name="online">online</term>
-      <term name="accessed">accessed</term>
-      <term name="retrieved">Dostępny</term>
-      <term name="from">from</term>
+      <term name="accessed">dostęp</term>
+      <term name="retrieved">Pobrane</term>
+      <term name="from">z</term>
       <term name="page" form="short">
-        <single>p.</single>
-        <multiple>pp.</multiple>
+        <single>s.</single>
+        <multiple>s.</multiple>
       </term>
     </terms>
   </locale>
@@ -113,7 +113,7 @@
         </date>
       </if>
       <else>
-        <text term="no date"/>
+        <text term="no date">brak daty</term>
       </else>
     </choose>
   </macro>
