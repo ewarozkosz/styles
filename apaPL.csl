@@ -34,12 +34,12 @@
   <locale xml:lang="en">
     <terms>
       <term name="editortranslator" form="short">
-        <single>ed. &amp; trans.</single>
-        <multiple>eds. &amp; trans.</multiple>
+        <single>red. &amp; tłum.</single>
+        <multiple>red. &amp; tłum.</multiple>
       </term>
       <term name="translator" form="short">
-        <single>trans.</single>
-        <multiple>trans.</multiple>
+        <single>tłum.</single>
+        <multiple>tłum.</multiple>
       </term>
     </terms>
   </locale>
